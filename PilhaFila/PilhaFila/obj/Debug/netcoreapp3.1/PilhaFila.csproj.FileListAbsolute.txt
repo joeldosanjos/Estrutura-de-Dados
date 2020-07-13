@@ -1,0 +1,26 @@
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.exe
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.deps.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.runtimeconfig.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.runtimeconfig.dev.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.dll
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.pdb
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.csprojAssemblyReference.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.AssemblyInfoInputs.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.AssemblyInfo.cs
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.csproj.CoreCompileInputs.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.dll
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.pdb
+C:\Users\joeld\Google Drive\VisualStudioProjects\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.genruntimeconfig.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.exe
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.deps.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.runtimeconfig.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.runtimeconfig.dev.json
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.dll
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\bin\Debug\netcoreapp3.1\PilhaFila.pdb
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.csprojAssemblyReference.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.AssemblyInfoInputs.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.AssemblyInfo.cs
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.csproj.CoreCompileInputs.cache
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.dll
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.pdb
+C:\Users\joeld\Google Drive\VisualStudioProjects\Estrutura de Dados\PilhaFila\PilhaFila\obj\Debug\netcoreapp3.1\PilhaFila.genruntimeconfig.cache
