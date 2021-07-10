@@ -4,9 +4,9 @@
 
 *Sinta-se livre para baixar os arquivos para testá-los localmente e até sugerir modificações caso encontre alguma falha.*
 
-### 🛠 Tipos de Estrutura de Dados
+### 🎲 Tipos de Estrutura de Dados
 
-Os seguintes tipos de estrutura de dadoe stão presentes:
+Os seguintes tipos de estrutura de dados stão presentes:
 
 - Árvore binária;
 - Fila Circular;
