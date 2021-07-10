@@ -2,7 +2,7 @@
 
 ### 🤓 Este repositório tem como objetivo reunir alguns princípios de estrutura de dados em C#, desenvolvido durante uma matéria na faculdade.
 
-*Sinta-se livre para baixar os arquivos e testá-los localmente e até sugerir modificações caso encontre alguma falha.*
+*Sinta-se livre para baixar os arquivos e testá-los localmente, e até sugerir modificações caso encontre alguma falha.*
 
 ### 🎲 Tipos de Estrutura de Dados
 
