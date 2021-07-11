@@ -18,5 +18,5 @@ Os seguintes tipos de estrutura de dados stão presentes:
 
 Para testar os códigos deste repositório, considere os seguintes métodos:
 
-- Baixar os arquivos e executá-los em programas com suporte para a linguagem em específico (como Visual Studio para C#, Code Blocks para C, NetBeans para Java, entre outros);
+- Baixar os arquivos e executá-los em programas com suporte para a linguagem em específico (como Visual Studio para C#);
 - Copiar e colar o código-fonte de um arquivo para um compilador online ou para um arquivo local em branco;
